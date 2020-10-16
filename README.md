@@ -1,8 +1,8 @@
-# React Portfolio
+# MERN Book Serch Engine
 
 ## Description 
 
-This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a personal portfolio website built with Create React.    
+This is a project which was developed for the University of Arizona Coding Bootcamp course. The application contained within is a search engine utilizing the MERN technology stack. 
 
 ## Table of Contents 
 
@@ -27,9 +27,12 @@ React Commands;
 
 ## Credits
 
-University of Arizona Coding Bootcamp Week 20 Module 20: React     
-Node Package Manager     
-React       
+University of Arizona Coding Bootcamp Week 21 Module 21: MERN    
+Node Package Manager       
+MongoDB     
+React     
+Express     
+GraphQL API      
 
 ## License
 
@@ -57,6 +60,8 @@ SOFTWARE.
    
 Live Deployed Application: [View Application](https://uabc-react-portfolio.herokuapp.com/ "Live Deploy")  
 
-![Screenshot](doc/proof.png?raw=true "Proof of Application")      
+![Screenshot](/search.png?raw=true "Proof of Application - Search")     
+
+![Screenshot](/library.png?raw=true "Proof of Application - Library")   
 
 
