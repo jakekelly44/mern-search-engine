@@ -58,7 +58,7 @@ SOFTWARE.
 
 ## Documentation
    
-Live Deployed Application: [View Application](https://uabc-react-portfolio.herokuapp.com/ "Live Deploy")  
+Live Deployed Application: [View Application](https://uabc-mern-v2.herokuapp.com/ "Live Deploy")  
 
 ![Screenshot](/search.png?raw=true "Proof of Application - Search")     
 
