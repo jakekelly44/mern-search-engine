@@ -1,4 +1,4 @@
-# MERN Book Serch Engine
+# MERN Book Search Engine
 
 ## Description 
 
